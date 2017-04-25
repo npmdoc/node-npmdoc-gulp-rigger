@@ -1,9 +1,14 @@
-# api documentation for  [gulp-rigger (v0.5.8)](https://github.com/kuzyk/gulp-rigger)  [![npm package](https://img.shields.io/npm/v/npmdoc-gulp-rigger.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-gulp-rigger) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-gulp-rigger.svg)](https://travis-ci.org/npmdoc/node-npmdoc-gulp-rigger)
+# npmdoc-gulp-rigger
+
+#### basic api documentation for  [gulp-rigger (v0.5.8)](https://github.com/kuzyk/gulp-rigger)  [![npm package](https://img.shields.io/npm/v/npmdoc-gulp-rigger.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-gulp-rigger) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-gulp-rigger.svg)](https://travis-ci.org/npmdoc/node-npmdoc-gulp-rigger)
+
 #### A gulp plugin for using rigger
 
-[![NPM](https://nodei.co/npm/gulp-rigger.png?downloads=true)](https://www.npmjs.com/package/gulp-rigger)
+[![NPM](https://nodei.co/npm/gulp-rigger.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/gulp-rigger)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-gulp-rigger/build/screenCapture.buildNpmdoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-gulp-rigger%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-gulp-rigger/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-gulp-rigger/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-gulp-rigger/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-gulp-rigger/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-gulp-rigger/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-gulp-rigger/build/screenCapture.npmPackageListing.svg)
 
@@ -42,30 +47,19 @@
     "main": "index.js",
     "maintainers": [
         {
-            "name": "kuzyk",
-            "email": "askuzyk@gmail.com"
+            "name": "kuzyk"
         }
     ],
     "name": "gulp-rigger",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/kuzyk/gulp-rigger.git"
     },
-    "version": "0.5.8"
+    "version": "0.5.8",
+    "bin": {}
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module gulp-rigger](#apidoc.module.gulp-rigger)
-
-
-
-# <a name="apidoc.module.gulp-rigger"></a>[module gulp-rigger](#apidoc.module.gulp-rigger)
 
 
 
